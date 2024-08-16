@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
 I am a second-year Ph.D. candidate at the School of Computer Science, Peking University, 
-supervised by [Prof. Jie Zhang](https://jiezhang-camel.github.io). 
+under the supervision of [Prof. Jie Zhang](https://jiezhang-camel.github.io). 
 
 My **research interests** lie in storage systems and computer architectures, especially the following areas:
 
@@ -29,25 +29,25 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 📝 Publications 
-- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance</i></div>
+- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance.</i></div>
 👤&nbsp; ***ShushuYi***, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
 <br/>
-- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;USENIX ATC 2024&nbsp;</font>&nbsp;<i>ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs</i></div>
+- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;USENIX ATC 2024&nbsp;</font>&nbsp;<i>ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs.</i>&nbsp;📄&nbsp;<a href="https://www.usenix.org/system/files/atc24-yi-shushu.pdf">Paper</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/ScalaAFA">Codes</a></div>
 👤&nbsp; ***Shushu Yi***, Xiurui Pan, Qiao Li, Qiang Li, Chenxi Wang, Bo Mao, Myoungsoo Jung, Jie Zhang 
 <br/>
-- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;HPCA 2024&nbsp;</font>&nbsp;<i>StreamPIM: Streaming Matrix Computation in Racetrack Memory</i></div>
+- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;HPCA 2024&nbsp;</font>&nbsp;<i>StreamPIM: Streaming Matrix Computation in Racetrack Memory.</i>&nbsp;📄&nbsp;<a href="https://ieeexplore.ieee.org/document/10476415">Paper</a></div>
 👤&nbsp; Yuda An, Yunxiao Tang, ***ShushuYi***, Li Peng, Xiurui Pan, Guangyu Sun, Zhaochu Luo, Qiao Li, Jie Zhang 
 <br/>
-- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;NVMW 2023&nbsp;</font>&nbsp;<i>Optimizations of Linux Software RAID System for Next-Generation Storage</i></div>
+- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;NVMW 2023&nbsp;</font>&nbsp;<i>Optimizations of Linux Software RAID System for Next-Generation Storage.</i>&nbsp;📄&nbsp;<a href="http://nvmw.ucsd.edu/nvmw2023-program/nvmw2023-paper6-final_version_your_extended_abstract.pdf">Paper</a></div>
 👤&nbsp; ***ShushuYi***, Yanning Yang, Yunxiao Tang, Zixuan Zhou, Junzhe Li, Chen Yue, Myoungsoo Jung, Jie Zhang
 <br/>
-- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;SAC 2023&nbsp;</font>&nbsp;<i>BcBench: Exploring Throughput Processor Designs Based on Blockchain Benchmarking</i></div>
+- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;SAC 2023&nbsp;</font>&nbsp;<i>BcBench: Exploring Throughput Processor Designs Based on Blockchain Benchmarking.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/10.1145/3555776.3577701">Paper</a></div>
 👤&nbsp; Xiurui Pan, Yue Chen, ***ShushuYi***, Jie Zhang 
 <br/>
-- <div><font style="background: #336666" color="white" face='Arial' size="2pt">&nbsp;CCF THPC&nbsp;</font>&nbsp;<i>Survey on Storage-Accelerator Data Movement</i></div>
+- <div><font style="background: #336666" color="white" face='Arial' size="2pt">&nbsp;CCF THPC&nbsp;</font>&nbsp;<i>Survey on Storage-Accelerator Data Movement.</i>&nbsp;📄&nbsp;<a href="https://link.springer.com/article/10.1007/s42514-022-00112-0">Paper</a></div>
 👤&nbsp; Zixuan Zhou, ***ShushuYi***, Jie Zhang 
 <br/>
-- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;HotStorage 2022&nbsp;</font>&nbsp;<i>ScalaRAID: Optimizing Linux Software RAID System for Next-Generation Storage</i></div>
+- <div><font style="background: #8c0000" color="white" face='Arial' size="2pt">&nbsp;HotStorage 2022&nbsp;</font>&nbsp;<i>ScalaRAID: Optimizing Linux Software RAID System for Next-Generation Storage.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/abs/10.1145/3538643.3539740">Paper</a>&nbsp;📽️&nbsp;<a href="https://www.hotstorage.org/2022/slides/hotstorage22-paper5-presentation_slides.pdf">Slides</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/ScalaRAID">Codes</a></div>
 👤&nbsp; ***ShushuYi***, Yanning Yang, Yunxiao Tang, Zixuan Zhou, Junzhe Li, Chen Yue, Myoungsoo Jung, Jie Zhang 
 
 <br/>
@@ -60,8 +60,8 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 📖 Educations
-- *2022.09 - now*, School of Computer Science, Peking University. 
-- *2018.09 - 2022.06*, Department of Computer Science and Technology, Nanjing University, Bachelor of Science.
+- *2022.09 - now*, School of Computer Science, Peking University, supervised by [Prof. Jie Zhang](https://jiezhang-camel.github.io). 
+- *2018.09 - 2022.06*, Department of Computer Science and Technology, Nanjing University, Bachelor of Science, supervised by [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm).
 
 <br/>
 
