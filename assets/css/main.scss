@@ -107,3 +107,73 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.news-tag-paper {
+    border-color: #009966;
+    border-style: solid;
+    border-width: 0.5px;
+    color: #009966;
+    font-family: Arial;
+    font-size: 9pt;
+}
+
+.news-tag-paper:hover {
+    background-color: #009966;
+    border-width: 0.5px;
+    color: white;
+    font-family: Arial;
+    font-size: 9pt;
+}
+
+.news-tag-honor {
+    border-color: #0099CC;
+    border-style: solid;
+    border-width: 0.5px;
+    color: #0099CC;
+    font-family: Arial;
+    font-size: 9pt;
+}
+
+.news-tag-honor:hover {
+    background-color: #0099CC;
+    border-width: 0.5px;
+    color: white;
+    font-family: Arial;
+    font-size: 9pt;
+}
+
+.publication-tag-conf {
+    background-color: #8c0000;
+    color: white;
+    font-family: Arial;
+    font-size: 10pt;
+    border-width: 0.5px;
+}
+
+.publication-tag-conf:hover {
+    background-color: white;
+    border-color: #8c0000;
+    border-style: solid;
+    border-width: 0.5px;
+    color: #8c0000;
+    font-family: Arial;
+    font-size: 10pt;
+}
+
+.publication-tag-journal {
+    background-color: #336666;
+    color: white;
+    font-family: Arial;
+    font-size: 10pt;
+    border-width: 0.5px;
+}
+
+.publication-tag-journal:hover {
+    background-color: white;
+    border-color: #366660;
+    border-style: solid;
+    border-width: 0.5px;
+    color: #336666;
+    font-family: Arial;
+    font-size: 10pt;
+}
