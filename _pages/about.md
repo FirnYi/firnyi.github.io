@@ -29,7 +29,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 📝 Publications 
-- <div><font class="publication-tag-conf">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance.</i></div>
+- <div><font class="publication-tag-conf">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance.</i>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/BIZA">Codes</a></div>
 👤&nbsp; ***ShushuYi***, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
 <br/>
 - <div><font class="publication-tag-conf">&nbsp;USENIX ATC 2024&nbsp;</font>&nbsp;<i>ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs.</i>&nbsp;📄&nbsp;<a href="https://www.usenix.org/system/files/atc24-yi-shushu.pdf">Paper</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/ScalaAFA">Codes</a></div>
