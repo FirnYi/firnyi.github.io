@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👋 About Me
-I am a second-year Ph.D. candidate at the School of Computer Science, Peking University, 
+I am a third-year Ph.D. candidate at the School of Computer Science, Peking University, 
 under the supervision of [Prof. Jie Zhang](https://jiezhang-camel.github.io). 
 
 My **research interests** lie in storage systems and computer architectures, especially the following areas:
