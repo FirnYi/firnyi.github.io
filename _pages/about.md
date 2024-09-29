@@ -53,6 +53,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 🎖 Honors and Awards
+- *2024.09*: Excellent Student of Peking University (三好学生)
 - *2024.05*: President Award of Peking University (校长奖学金)
 - *2022.12*: First Prize, Massive Storage Competition (第一届大学生信息存储技术竞赛一等奖)
 - *2020.12*: China National Scholarship of Undergraduate Students (国家奖学金)
