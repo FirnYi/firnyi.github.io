@@ -22,6 +22,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 Receive the National Natural Science Foundation of China (NSFC) for Ph.D. Students. <font class="news-tag-honor">&nbsp;Honor&nbsp;</font>
 - *2024.08*: &nbsp;🎉🎉 BIZA is accepted by SOSP 2024. <font class="news-tag-paper">&nbsp;Paper&nbsp;</font>
 - *2024.05*: &nbsp;🎉🎉 Receive the President Award of Peking University (校长奖学金). <font class="news-tag-honor">&nbsp;Honor&nbsp;</font>
 - *2024.04*: &nbsp;🎉🎉 ScalaAFA is accepted by USENIX ATC 2024. <font font class="news-tag-paper">&nbsp;Paper&nbsp;</font>
@@ -29,7 +30,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 📝 Publications 
-- <div><font class="publication-tag-conf">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance.</i>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/BIZA">Codes</a></div>
+- <div><font class="publication-tag-conf">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/10.1145/3694715.3695953">Paper</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/BIZA">Codes</a></div>
 👤&nbsp; ***ShushuYi***, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
 <br/>
 - <div><font class="publication-tag-conf">&nbsp;USENIX ATC 2024&nbsp;</font>&nbsp;<i>ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs.</i>&nbsp;📄&nbsp;<a href="https://www.usenix.org/system/files/atc24-yi-shushu.pdf">Paper</a>&nbsp;📽️&nbsp;<a href="https://www.usenix.org/system/files/atc24_slides-yi-shushu.pdf">Slides</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/ScalaAFA">Codes</a></div>
@@ -53,6 +54,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 🎖 Honors and Awards
+- *2024.12*: National Natural Science Foundation of China (NSFC) for Ph.D. Students (国家自然科学基金青年学生项目(博士生))
 - *2024.09*: Excellent Student of Peking University (三好学生)
 - *2024.05*: President Award of Peking University (校长奖学金)
 - *2022.12*: First Prize, Massive Storage Competition (第一届大学生信息存储技术竞赛一等奖)
