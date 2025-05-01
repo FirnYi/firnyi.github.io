@@ -22,6 +22,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 The extended version of ScalaAFA is accepted by ACM TOS. <font class="news-tag-paper">&nbsp;Paper&nbsp;</font>
 - *2024.12*: &nbsp;🎉🎉 Receive the National Natural Science Foundation of China (NSFC) for Ph.D. Students. <font class="news-tag-honor">&nbsp;Honor&nbsp;</font>
 - *2024.08*: &nbsp;🎉🎉 BIZA is accepted by SOSP 2024. <font class="news-tag-paper">&nbsp;Paper&nbsp;</font>
 - *2024.05*: &nbsp;🎉🎉 Receive the President Award of Peking University (校长奖学金). <font class="news-tag-honor">&nbsp;Honor&nbsp;</font>
@@ -30,6 +31,12 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 📝 Publications 
+- <div><font class="publication-tag-journal">&nbsp;ACM TOS&nbsp;</font>&nbsp;<i>Enhancing the Performance of Next-Generation SSD Arrays: A Holistic Approach.</i></div>
+👤&nbsp; Jie Zhang, ***Shushu Yi***, Xiurui Pan, Qiao Li, Qiang Li, Chenxi Wang, Bo Mao, Myoungsoo Jung
+<br/>
+- <div><font class="publication-tag-conf">&nbsp;ISCA 2025&nbsp;</font>&nbsp;<i>XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting.</i></div>
+👤&nbsp; Peng Li, Wenbo Wu, ***ShushuYi***, Xianzhang Chen, Chenxi Wang, Shengwen Liang, Zhe Wang, Nong Xiao, Qiao Li, Mingzhe Zhang, Jie Zhang
+<br/>
 - <div><font class="publication-tag-conf">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/10.1145/3694715.3695953">Paper</a>&nbsp;📽️&nbsp;<a href="files/slides/BIZA_slides.pdf">Slides</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/BIZA">Codes</a></div>
 👤&nbsp; ***ShushuYi***, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
 <br/>
