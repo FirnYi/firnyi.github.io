@@ -177,3 +177,22 @@ h1:before, .anchor:before {
     font-family: Arial;
     font-size: 10pt;
 }
+
+.ccf-a{
+    background-color: #5D74A2;
+    color: white;
+    font-family: Arial;
+    font-size: 10pt;
+    border-width: 0.5px;
+    border-radius: 3pt;
+}
+
+.ccf-a:hover {
+    background-color: #5D74A2;
+    color: white;
+    font-family: Arial;
+    font-size: 10pt;
+    border-width: 0.5px;
+    border-radius: 3pt;
+    opacity: 0.8;
+}
