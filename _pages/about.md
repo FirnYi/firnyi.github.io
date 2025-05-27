@@ -38,7 +38,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 👤&nbsp; Jie Zhang, ***Shushu Yi***, Xiurui Pan, Qiao Li, Qiang Li, Chenxi Wang, Bo Mao, Myoungsoo Jung
 <br/>
 - <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;ISCA 2025&nbsp;</font>&nbsp;<i>XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting.</i></div>
-👤&nbsp; Peng Li, Wenbo Wu, ***ShushuYi***, Xianzhang Chen, Chenxi Wang, Shengwen Liang, Zhe Wang, Nong Xiao, Qiao Li, Mingzhe Zhang, Jie Zhang
+👤&nbsp; Peng Li, Wenbo Wu, ***Shushu Yi***, Xianzhang Chen, Chenxi Wang, Shengwen Liang, Zhe Wang, Nong Xiao, Qiao Li, Mingzhe Zhang, Jie Zhang
 <br/>
 - <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/10.1145/3694715.3695953">Paper</a>&nbsp;📽️&nbsp;<a href="files/slides/BIZA_slides.pdf">Slides</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/BIZA">Codes</a></div>
 👤&nbsp; ***ShushuYi***, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
