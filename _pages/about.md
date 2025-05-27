@@ -41,25 +41,25 @@ My **research interests** lie in storage systems and computer architectures, esp
 👤&nbsp; Peng Li, Wenbo Wu, ***Shushu Yi***, Xianzhang Chen, Chenxi Wang, Shengwen Liang, Zhe Wang, Nong Xiao, Qiao Li, Mingzhe Zhang, Jie Zhang
 <br/>
 - <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/10.1145/3694715.3695953">Paper</a>&nbsp;📽️&nbsp;<a href="files/slides/BIZA_slides.pdf">Slides</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/BIZA">Codes</a></div>
-👤&nbsp; ***ShushuYi***, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
+👤&nbsp; ***S hu shu***, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
 <br/>
 - <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;USENIX ATC 2024&nbsp;</font>&nbsp;<i>ScalaAFA: Constructing User-Space All-Flash Array Engine with Holistic Designs.</i>&nbsp;📄&nbsp;<a href="https://www.usenix.org/system/files/atc24-yi-shushu.pdf">Paper</a>&nbsp;📽️&nbsp;<a href="https://www.usenix.org/system/files/atc24_slides-yi-shushu.pdf">Slides</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/ScalaAFA">Codes</a></div>
 👤&nbsp; ***Shushu Yi***, Xiurui Pan, Qiao Li, Qiang Li, Chenxi Wang, Bo Mao, Myoungsoo Jung, Jie Zhang 
 <br/>
 - <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;HPCA 2024&nbsp;</font>&nbsp;<i>StreamPIM: Streaming Matrix Computation in Racetrack Memory.</i>&nbsp;📄&nbsp;<a href="https://ieeexplore.ieee.org/document/10476415">Paper</a></div>
-👤&nbsp; Yuda An, Yunxiao Tang, ***ShushuYi***, Li Peng, Xiurui Pan, Guangyu Sun, Zhaochu Luo, Qiao Li, Jie Zhang 
+👤&nbsp; Yuda An, Yunxiao Tang, ***Shushu Yi***, Li Peng, Xiurui Pan, Guangyu Sun, Zhaochu Luo, Qiao Li, Jie Zhang 
 <br/>
 - <div><font class="publication-tag-conf">&nbsp;NVMW 2023&nbsp;</font>&nbsp;<i>Optimizations of Linux Software RAID System for Next-Generation Storage.</i>&nbsp;📄&nbsp;<a href="http://nvmw.ucsd.edu/nvmw2023-program/nvmw2023-paper6-final_version_your_extended_abstract.pdf">Paper</a></div>
-👤&nbsp; ***ShushuYi***, Yanning Yang, Yunxiao Tang, Zixuan Zhou, Junzhe Li, Chen Yue, Myoungsoo Jung, Jie Zhang
+👤&nbsp; ***Shushu Yi***, Yanning Yang, Yunxiao Tang, Zixuan Zhou, Junzhe Li, Chen Yue, Myoungsoo Jung, Jie Zhang
 <br/>
 - <div><font class="publication-tag-conf">&nbsp;SAC 2023&nbsp;</font>&nbsp;<i>BcBench: Exploring Throughput Processor Designs Based on Blockchain Benchmarking.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/10.1145/3555776.3577701">Paper</a></div>
-👤&nbsp; Xiurui Pan, Yue Chen, ***ShushuYi***, Jie Zhang 
+👤&nbsp; Xiurui Pan, Yue Chen, ***Shushu Yi***, Jie Zhang 
 <br/>
 - <div><font class="publication-tag-journal">&nbsp;CCF THPC&nbsp;</font>&nbsp;<i>Survey on Storage-Accelerator Data Movement.</i>&nbsp;📄&nbsp;<a href="https://link.springer.com/article/10.1007/s42514-022-00112-0">Paper</a></div>
-👤&nbsp; Zixuan Zhou, ***ShushuYi***, Jie Zhang 
+👤&nbsp; Zixuan Zhou, ***Shushu Yi***, Jie Zhang 
 <br/>
 - <div><font class="publication-tag-conf">&nbsp;HotStorage 2022&nbsp;</font>&nbsp;<i>ScalaRAID: Optimizing Linux Software RAID System for Next-Generation Storage.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/abs/10.1145/3538643.3539740">Paper</a>&nbsp;📽️&nbsp;<a href="https://www.hotstorage.org/2022/slides/hotstorage22-paper5-presentation_slides.pdf">Slides</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/ScalaRAID">Codes</a></div>
-👤&nbsp; ***ShushuYi***, Yanning Yang, Yunxiao Tang, Zixuan Zhou, Junzhe Li, Chen Yue, Myoungsoo Jung, Jie Zhang 
+👤&nbsp; ***Shushu Yi***, Yanning Yang, Yunxiao Tang, Zixuan Zhou, Junzhe Li, Chen Yue, Myoungsoo Jung, Jie Zhang 
 
 <br/>
 
