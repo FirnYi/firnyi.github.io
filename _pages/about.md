@@ -22,6 +22,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Receive the National Scholarship for Ph.D. Students. <font class="news-tag-honor">&nbsp;Honor&nbsp;</font>
 - *2025.05*: &nbsp;🎉🎉 The extended version of ScalaAFA is accepted by ACM TOS. <font class="news-tag-paper">&nbsp;Paper&nbsp;</font>
 - *2024.12*: &nbsp;🎉🎉 Receive the National Natural Science Foundation of China (NSFC) for Ph.D. Students. <font class="news-tag-honor">&nbsp;Honor&nbsp;</font>
 - *2024.08*: &nbsp;🎉🎉 BIZA is accepted by SOSP 2024. <font class="news-tag-paper">&nbsp;Paper&nbsp;</font>
@@ -31,6 +32,8 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 📝 Publications 
+- <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;FAST 2026&nbsp;</font>&nbsp;<i>Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework.</i></div>
+👤&nbsp; Yuda An, ***Shushu Yi***, Bo Mao, Qiao Li, Mingzhe Zhang, Diyu Zhou, Ke Zhou, Nong Xiao, Guangyu Sun,Yingwei Luo, Jie Zhang
 - <div><font class="publication-tag-conf">&nbsp;HotStorage 2025&nbsp;</font>&nbsp;<i>SPDK+: Low Latency or High Power Efficiency? We Take Both</i></div>
 👤&nbsp; Endian Li, ***Shushu Yi***, Li Peng, Qiao Li, Diyu Zhou, Zhenlin Wang, Xiaolin Wang, Bo Mao, Yingwei Luo, Ke Zhou, Jie Zhang
 <br/>
@@ -64,6 +67,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 🎖 Honors and Awards
+- *2025.10*: China National Scholarship of Ph.D. Students (国家奖学金)
 - *2024.12*: National Natural Science Foundation of China (NSFC) for Ph.D. Students (国家自然科学基金青年学生项目(博士生))
 - *2024.09*: Excellent Student of Peking University (三好学生)
 - *2024.05*: President Award of Peking University (校长奖学金)
