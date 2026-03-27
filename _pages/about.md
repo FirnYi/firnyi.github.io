@@ -22,6 +22,7 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Espresso is accepted by OSDI 2026. <font class="news-tag-paper">&nbsp;Paper&nbsp;</font>
 - *2025.10*: &nbsp;🎉🎉 Receive the National Scholarship for Ph.D. Students. <font class="news-tag-honor">&nbsp;Honor&nbsp;</font>
 - *2025.05*: &nbsp;🎉🎉 The extended version of ScalaAFA is accepted by ACM TOS. <font class="news-tag-paper">&nbsp;Paper&nbsp;</font>
 - *2024.12*: &nbsp;🎉🎉 Receive the National Natural Science Foundation of China (NSFC) for Ph.D. Students. <font class="news-tag-honor">&nbsp;Honor&nbsp;</font>
@@ -32,15 +33,17 @@ My **research interests** lie in storage systems and computer architectures, esp
 <br/>
 
 # 📝 Publications 
-- <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;FAST 2026&nbsp;</font>&nbsp;<i>Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework.</i></div>
+- <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;OSDI 2026&nbsp;</font>&nbsp;<i>Espresso: Constructing Cost-Efficient CXL JBOF via Inter-SSD Computing Resource Sharing.</i></div>
+👤&nbsp; ***Shushu Yi***, Yuda An, Li Peng, Xiurui Pan, Qiao Li, Jieming Yin, Guangyan Zhang, Wenfei Wu, Chenxi Wang, Diyu Zhou, Zhenlin Wang, Xiaolin Wang, Yingwei Luo, Ke Zhou, Jie Zhang
+- <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;FAST 2026&nbsp;</font>&nbsp;<i>Xerxes: Extensive Exploration of Scalable Hardware Systems with CXL-Based Simulation Framework.</i>&nbsp;📄&nbsp;<a href="https://www.usenix.org/system/files/fast26-an.pdf">Paper</a></div>
 👤&nbsp; Yuda An, ***Shushu Yi***, Bo Mao, Qiao Li, Mingzhe Zhang, Diyu Zhou, Ke Zhou, Nong Xiao, Guangyu Sun,Yingwei Luo, Jie Zhang
-- <div><font class="publication-tag-conf">&nbsp;HotStorage 2025&nbsp;</font>&nbsp;<i>SPDK+: Low Latency or High Power Efficiency? We Take Both</i></div>
+- <div><font class="publication-tag-conf">&nbsp;HotStorage 2025&nbsp;</font>&nbsp;<i>SPDK+: Low Latency or High Power Efficiency? We Take Both</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/abs/10.1145/3736548.3737824">Paper</a></div>
 👤&nbsp; Endian Li, ***Shushu Yi***, Li Peng, Qiao Li, Diyu Zhou, Zhenlin Wang, Xiaolin Wang, Bo Mao, Yingwei Luo, Ke Zhou, Jie Zhang
 <br/>
-- <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-journal">&nbsp;ACM TOS&nbsp;</font>&nbsp;<i>Enhancing the Performance of Next-Generation SSD Arrays: A Holistic Approach.</i></div>
+- <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-journal">&nbsp;ACM TOS&nbsp;</font>&nbsp;<i>Enhancing the Performance of Next-Generation SSD Arrays: A Holistic Approach.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/10.1145/3736588">Paper</a></div>
 👤&nbsp; Jie Zhang, ***Shushu Yi***, Xiurui Pan, Qiao Li, Qiang Li, Chenxi Wang, Bo Mao, Myoungsoo Jung
 <br/>
-- <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;ISCA 2025&nbsp;</font>&nbsp;<i>XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting.</i></div>
+- <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;ISCA 2025&nbsp;</font>&nbsp;<i>XHarvest: Rethinking High-Performance and Cost-Efficient SSD Architecture with CXL-Driven Harvesting.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/10.1145/3695053.3731028">Paper</a></div>
 👤&nbsp; Peng Li, Wenbo Wu, ***Shushu Yi***, Xianzhang Chen, Chenxi Wang, Shengwen Liang, Zhe Wang, Nong Xiao, Qiao Li, Mingzhe Zhang, Jie Zhang
 <br/>
 - <div><font class="ccf-a">&nbsp;CCF-A&nbsp;</font>|<font class="publication-tag-conf">&nbsp;SOSP 2024&nbsp;</font>&nbsp;<i>BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance.</i>&nbsp;📄&nbsp;<a href="https://dl.acm.org/doi/10.1145/3694715.3695953">Paper</a>&nbsp;📽️&nbsp;<a href="files/slides/BIZA_slides.pdf">Slides</a>&nbsp;📁&nbsp;<a href="https://github.com/ChaseLab-PKU/BIZA">Codes</a></div>
