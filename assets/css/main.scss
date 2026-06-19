@@ -196,3 +196,15 @@ h1:before, .anchor:before {
     border-radius: 3pt;
     opacity: 0.8;
 }
+
+.page__content .important-notice {
+    color: #8c0000;
+    font-weight: bold;
+    font-size: 1.05em;
+    margin-top: 1.5em;
+    margin-bottom: 0;
+    padding: 0.4em 0.6em;
+    border: 2px solid #8c0000;
+    border-radius: 6px;
+    background-color: #fff5f5;
+}

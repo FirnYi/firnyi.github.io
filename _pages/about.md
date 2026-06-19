@@ -13,11 +13,13 @@ redirect_from:
 I am a fourth-year Ph.D. candidate at the School of Computer Science, Peking University, 
 under the supervision of [Prof. Jie Zhang](https://jiezhang-camel.github.io). 
 
-My **research interests** lie in storage systems and computer architectures, especially the following areas:
+My **research interests** lie in storage systems, AI infra, and computer architectures, especially the following areas:
 
-- All flash array (AFA)
+- GPU-native storage stack
+- All-flash array (AFA)
 - Compute express link (CXL)
-- Storage stack
+
+<p class="important-notice">📢📢 I'm currently on the job market and open to opportunities in AI infra (especially storage-related), including industry positions, postdoctoral fellowships, and faculty roles. Please feel free to contact me.</p>
 
 <br/>
 
